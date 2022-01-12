@@ -1,2 +1,9 @@
 # todos
-A todo app with swift &amp; swiftUI
+
+A todo app with swift and swiftUI
+
+![](img/demo.png)
+
+## Compile
+
+Compile with XCode for iOS
